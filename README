@@ -1,0 +1,9 @@
+cateyes:猫眼top100
+mp3:网易音乐下载
+
+运行前请确认是否已安装 依赖库 <br>
+如未安装请执行以下命令
+
+```
+pip3 install -r requirements.txt
+```
